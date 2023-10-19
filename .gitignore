@@ -1,1 +1,5 @@
 /.vscode
+/test
+**/bin/**
+main
+!**/bin/.gitkeep
